@@ -1,2 +1,1 @@
 # vehcbot
-dc bot vehc
